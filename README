@@ -1,0 +1,5 @@
+NGINX mainline v1.19.x binaries with static
+1. "QUIC" - https://hg.nginx.org/nginx-quic/
+2. "headers-more-nginx-module" - https://github.com/openresty/headers-more-nginx-module
+3. "ngx-fancyindex" - https://github.com/aperezdc/ngx-fancyindex
+4. "ngx-brotli" - https://github.com/google/ngx_brotli
